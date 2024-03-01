@@ -1,0 +1,13 @@
+---> EJERCICIO 1
+https://www.ibm.com/es-es/products/db2
+https://www.precisely.com/glossary/db2
+https://en.wikipedia.org/wiki/IBM_Db2
+https://www.techtarget.com/searchdatamanagement/definition/Db2
+(Open AI Chat GPT para profundizar en algunas cosas)
+
+
+---> EJERCICIO 2 Y 3
+https://www.ibm.com/docs/es/db2/11.1?topic=architecture-db2-process-model#c0008930__title__6
+https://www.ibm.com/docs/es/db2-for-zos/11?topic=objects-application-processes-transactions
+https://www.ibm.com/docs/es/db2-for-zos/11?topic=procedure-stored-processing
+https://www.ibm.com/docs/es/db2-for-zos/11?topic=concepts-application-processes-concurrency-recovery
